@@ -1,7 +1,6 @@
 Prophet Bob
 a book by Norman Hooper
 
-    Foreward
     Acknowledgements
     Introduction
     Outside
